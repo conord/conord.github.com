@@ -4,7 +4,7 @@
   <title><![CDATA[]]></title>
   <link href="http://conord.github.com/atom.xml" rel="self"/>
   <link href="http://conord.github.com/"/>
-  <updated>2012-09-24T15:35:14-05:00</updated>
+  <updated>2012-09-24T16:41:50-05:00</updated>
   <id>http://conord.github.com/</id>
   <author>
     <name><![CDATA[Conor doyle]]></name>
@@ -12,5 +12,16 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[initial_post]]></title>
+    <link href="http://conord.github.com/blog/2012/09/24/initial-post/"/>
+    <updated>2012-09-24T16:33:00-05:00</updated>
+    <id>http://conord.github.com/blog/2012/09/24/initial-post</id>
+    <content type="html"><![CDATA[<h1>Initial Blog Post</h1>
+
+<p>No real content here. Getting everything setup and configured.</p>
+]]></content>
+  </entry>
   
 </feed>
