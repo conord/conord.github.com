@@ -2,14 +2,26 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://conord.github.com/blog/2012/09/24/initial-post/</loc>
-        <lastmod>2012-09-24T16:40:51-05:00</lastmod>
+        <lastmod>2012-09-26T23:30:03-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://conord.github.com/aboutme.html</loc>
+        <lastmod>2012-09-26T23:30:20-05:00</lastmod>
     </url>
     <url>
         <loc>http://conord.github.com/blog/archives/</loc>
-        <lastmod>2012-09-24T16:40:51-05:00</lastmod>
+        <lastmod>2012-09-26T23:30:20-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://conord.github.com/contact.html</loc>
+        <lastmod>2012-09-26T23:30:20-05:00</lastmod>
     </url>
     <url>
         <loc>http://conord.github.com/</loc>
-        <lastmod>2012-09-24T16:40:51-05:00</lastmod>
+        <lastmod>2012-09-26T23:29:16-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://conord.github.com/resume.html</loc>
+        <lastmod>2012-09-26T23:35:49-05:00</lastmod>
     </url>
 </urlset>

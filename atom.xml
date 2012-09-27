@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[]]></title>
+  <title><![CDATA[Conor Doyle - Web Developer]]></title>
   <link href="http://conord.github.com/atom.xml" rel="self"/>
   <link href="http://conord.github.com/"/>
-  <updated>2012-09-25T12:01:15-05:00</updated>
+  <updated>2012-09-26T23:36:02-05:00</updated>
   <id>http://conord.github.com/</id>
   <author>
     <name><![CDATA[Conor doyle]]></name>
@@ -14,13 +14,11 @@
 
   
   <entry>
-    <title type="html"><![CDATA[initial_post]]></title>
+    <title type="html"><![CDATA[]]></title>
     <link href="http://conord.github.com/blog/2012/09/24/initial-post/"/>
     <updated>2012-09-24T16:33:00-05:00</updated>
     <id>http://conord.github.com/blog/2012/09/24/initial-post</id>
-    <content type="html"><![CDATA[<h1>Initial Blog Post</h1>
-
-<p>No real content here. Getting everything setup and configured.</p>
+    <content type="html"><![CDATA[<p>Eventual blog posts to follow. Getting eveything setup and configured.</p>
 ]]></content>
   </entry>
   
